@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "final",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.tpp": "cpp"
+		}
+	}
+}
